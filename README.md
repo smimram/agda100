@@ -11,106 +11,106 @@ If you have a formalization of one of those theorems or are aware of one, please
 
 # The theorems
 
-## The Irrationality of the Square Root of 2
-## Fundamental Theorem of Algebra
-## The Denumerability of the Rational Numbers
-## Pythagorean Theorem
-## Prime Number Theorem
-## Gödel's Incompleteness Theorem
-## Law of Quadratic Reciprocity
-## The Impossibility of Trisecting the Angle and Doubling the Cube
-## The Area of a Circle
-## Euler's Generalization of Fermat's Little Theorem
-## The Infinitude of Primes
-## The Independence of the Parallel Postulate
-## Polyhedron Formula
-## Euler's Summation of 1 + (1/2)² + (1/3)² + ....
-## Fundamental Theorem of Integral Calculus
-## Insolvability of General Higher Degree Equations
-## De Moivre's Theorem
-## Liouville's Theorem and the Construction of Transcendental Numbers
-## Four Squares Theorem
-## All Primes (1 mod 4) Equal the Sum of Two Squares
-## Green's Theorem
-## The Non-Denumerability of the Continuum
-## Formula for Pythagorean Triples
-## The Undecidability of the Continuum Hypothesis
-## Schroeder-Bernstein Theorem
-## Leibniz's Series for Pi
-## Sum of the Angles of a Triangle
-## Pascal's Hexagon Theorem
-## Feuerbach's Theorem
-## The Ballot Problem
-## Ramsey's Theorem
-## The Four Color Problem
-## Fermat's Last Theorem
-## Divergence of the Harmonic Series
-## Taylor's Theorem
-## Brouwer Fixed Point Theorem
-## The Solution of a Cubic
-## Arithmetic Mean/Geometric Mean
-## Solutions to Pell's Equation
-## Minkowski's Fundamental Theorem
-## Puiseux's Theorem
-## Sum of the Reciprocals of the Triangular Numbers
-## The Isoperimetric Theorem
-## The Binomial Theorem
-## The Partition Theorem
-## The Solution of the General Quartic Equation
-## The Central Limit Theorem
-## Dirichlet's Theorem
-## The Cayley-Hamilton Theorem
-## The Number of Platonic Solids
-## Wilson's Theorem
-## The Number of Subsets of a Set
-## Pi is Transcendental
-## Konigsberg Bridges Problem
-## Product of Segments of Chords
-## The Hermite-Lindemann Transcendence Theorem
-## Heron's Formula
-## Formula for the Number of Combinations
-## The Laws of Large Numbers
-## Bezout's Theorem
-## Theorem of Ceva
-## Fair Games Theorem
-## Cantor's Theorem
-## L'Hôpital's Rule
-## Isosceles Triangle Theorem
-## Sum of a Geometric Series
-## e is Transcendental
-## Sum of an arithmetic series
-## Greatest Common Divisor Algorithm
-## The Perfect Number Theorem
-## Order of a Subgroup
-## Sylow's Theorem
-## Ascending or Descending Sequences
-## The Principle of Mathematical Induction
-## The Mean Value Theorem
-## Fourier Series
-## Sum of kth powers
-## The Cauchy-Schwarz Inequality
-## The Intermediate Value Theorem
-## The Fundamental Theorem of Arithmetic
-## Divergence of the Prime Reciprocal Series
-## Dissection of Cubes (J.E. Littlewood's "elegant" proof)
-## The Friendship Theorem
-## Morley's Theorem
-## Divisibility by 3 Rule
-## Lebesgue Measure and Integration
-## Desargues's Theorem
-## Derangements Formula
-## The Factor and Remainder Theorems
-## Stirling's Formula
-## The Triangle Inequality
-## Pick's Theorem
-## The Birthday Problem
-## The Law of Cosines
-## Ptolemy's Theorem
-## Principle of Inclusion/Exclusion
-## Cramer's Rule
-## Bertrand's Postulate
-## Buffon Needle Problem
-## Descartes Rule of Signs
+## 1. The Irrationality of the Square Root of 2
+## 2. Fundamental Theorem of Algebra
+## 3. The Denumerability of the Rational Numbers
+## 4. Pythagorean Theorem
+## 5. Prime Number Theorem
+## 6. Gödel's Incompleteness Theorem
+## 7. Law of Quadratic Reciprocity
+## 8. The Impossibility of Trisecting the Angle and Doubling the Cube
+## 9. The Area of a Circle
+## 10. Euler's Generalization of Fermat's Little Theorem
+## 11. The Infinitude of Primes
+## 12. The Independence of the Parallel Postulate
+## 13. Polyhedron Formula
+## 14. Euler's Summation of 1 + (1/2)² + (1/3)² + ....
+## 15. Fundamental Theorem of Integral Calculus
+## 16. Insolvability of General Higher Degree Equations
+## 17. De Moivre's Theorem
+## 18. Liouville's Theorem and the Construction of Transcendental Numbers
+## 19. Four Squares Theorem
+## 20. All Primes (1 mod 4) Equal the Sum of Two Squares
+## 21. Green's Theorem
+## 22. The Non-Denumerability of the Continuum
+## 23. Formula for Pythagorean Triples
+## 24. The Undecidability of the Continuum Hypothesis
+## 25. Schroeder-Bernstein Theorem
+## 26. Leibniz's Series for Pi
+## 27. Sum of the Angles of a Triangle
+## 28. Pascal's Hexagon Theorem
+## 29. Feuerbach's Theorem
+## 30. [The Ballot Problem](https://en.wikipedia.org/wiki/Bertrand%27s_ballot_theorem)
+## 31. Ramsey's Theorem
+## 32. The Four Color Problem
+## 33. Fermat's Last Theorem
+## 34. Divergence of the Harmonic Series
+## 35. Taylor's Theorem
+## 36. [Brouwer Fixed Point Theorem](https://en.wikipedia.org/wiki/Brouwer_fixed-point_theorem)
+## 37. The Solution of a Cubic
+## 38. Arithmetic Mean/Geometric Mean
+## 39. Solutions to Pell's Equation
+## 40. Minkowski's Fundamental Theorem
+## 41. Puiseux's Theorem
+## 42. Sum of the Reciprocals of the Triangular Numbers
+## 43. The Isoperimetric Theorem
+## 44. [The Binomial Theorem](https://en.wikipedia.org/wiki/Binomial_theorem)
+## 45. The Partition Theorem
+## 46. The Solution of the General Quartic Equation
+## 47. The Central Limit Theorem
+## 48. Dirichlet's Theorem
+## 49. The Cayley-Hamilton Theorem
+## 50. The Number of Platonic Solids
+## 51. Wilson's Theorem
+## 52. The Number of Subsets of a Set
+## 53. Pi is Transcendental
+## 54. [Konigsberg Bridges Problem](https://en.wikipedia.org/wiki/Seven_Bridges_of_K%C3%B6nigsberg)
+## 55. Product of Segments of Chords
+## 56. The Hermite-Lindemann Transcendence Theorem
+## 57. [Heron's Formula](https://en.wikipedia.org/wiki/Heron%27s_formula)
+## 58. [Formula for the Number of Combinations](https://en.wikipedia.org/wiki/Combination)
+## 59. The Laws of Large Numbers
+## 60. [Bezout's Theorem](https://en.wikipedia.org/wiki/B%C3%A9zout%27s_identity)
+## 61. Theorem of Ceva
+## 62. Fair Games Theorem
+## 63. [Cantor's Theorem](https://en.wikipedia.org/wiki/Cantor%27s_theorem)
+## 64. [L'Hôpital's Rule](https://en.wikipedia.org/wiki/L%27H%C3%B4pital%27s_rule)
+## 65. Isosceles Triangle Theorem
+## 66. [Sum of a Geometric Series](https://en.wikipedia.org/wiki/Geometric_series#Sum)
+## 67. e is Transcendental
+## 68. Sum of an arithmetic series
+## 69. [Greatest Common Divisor Algorithm](https://en.wikipedia.org/wiki/Euclidean_algorithm)
+## 70. The Perfect Number Theorem
+## 71. Order of a Subgroup
+## 72. [Sylow's Theorem](https://en.wikipedia.org/wiki/Sylow_theorems)
+## 73. Ascending or Descending Sequences
+## 74. [The Principle of Mathematical Induction](https://en.wikipedia.org/wiki/Mathematical_induction)
+## 75. [The Mean Value Theorem](https://en.wikipedia.org/wiki/Mean_value_theorem)
+## 76. Fourier Series
+## 77. Sum of kth powers
+## 78. The Cauchy-Schwarz Inequality
+## 79. The Intermediate Value Theorem
+## 80. The Fundamental Theorem of Arithmetic
+## 81. Divergence of the Prime Reciprocal Series
+## 82. Dissection of Cubes (J.E. Littlewood's "elegant" proof)
+## 83. The Friendship Theorem
+## 84. Morley's Theorem
+## 85. [Divisibility by 3 Rule](https://en.wikipedia.org/wiki/Divisibility_rule#Divisibility_by_3_or_9)
+## 86. Lebesgue Measure and Integration
+## 87. Desargues's Theorem
+## 88. Derangements Formula
+## 89. The Factor and Remainder Theorems
+## 90. Stirling's Formula
+## 91. The Triangle Inequality
+## 92. Pick's Theorem
+## 93. The Birthday Problem
+## 94. The Law of Cosines
+## 95. Ptolemy's Theorem
+## 96. [Principle of Inclusion/Exclusion](https://en.wikipedia.org/wiki/Inclusion%E2%80%93exclusion_principle)
+## 97. Cramer's Rule
+## 98. Bertrand's Postulate
+## 99. Buffon Needle Problem
+## 100. Descartes Rule of Signs
 
 # Additional theorems
 
