@@ -86,7 +86,7 @@ If you have a formalization of one of those theorems or are aware of one, please
 ## 73. Ascending or Descending Sequences
 ## 74. [The Principle of Mathematical Induction](https://en.wikipedia.org/wiki/Mathematical_induction)
 
-Immediate (in [induction.agda](agda/induction.agda))
+Immediate (in [induction.agda](agda/induction.agda)):
 
 ```agda
 induction : (P : ℕ → Set) → P 0 → ((n : ℕ) → P n → P (suc n)) → (n : ℕ) → P n
