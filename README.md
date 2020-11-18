@@ -89,7 +89,7 @@ If you have a formalization of one of those theorems or are aware of one, please
 Immediate (in [induction.agda](agda/induction.agda)):
 
 ```agda
-induction : (P : ℕ → Set) → P 0 → ((n : ℕ) → P n → P (suc n)) → (n : ℕ) → P n
+induction : (P : ℕ → Set) → P 0 → (∀ n → P n → P (1 + n)) → ∀ n → P n
 ```
 
 ## 75. [The Mean Value Theorem](https://en.wikipedia.org/wiki/Mean_value_theorem)
