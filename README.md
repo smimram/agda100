@@ -85,6 +85,13 @@ If you have a formalization of one of those theorems or are aware of one, please
 ## 72. [Sylow's Theorem](https://en.wikipedia.org/wiki/Sylow_theorems)
 ## 73. Ascending or Descending Sequences
 ## 74. [The Principle of Mathematical Induction](https://en.wikipedia.org/wiki/Mathematical_induction)
+
+Immediate (in [induction.agda](agda/induction.agda))
+
+```agda
+induction : (P : ℕ → Set) → P 0 → ((n : ℕ) → P n → P (suc n)) → (n : ℕ) → P n
+```
+
 ## 75. [The Mean Value Theorem](https://en.wikipedia.org/wiki/Mean_value_theorem)
 ## 76. Fourier Series
 ## 77. Sum of kth powers
